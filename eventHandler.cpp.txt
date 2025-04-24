@@ -1,0 +1,16 @@
+#include <stdio.h>
+#include "eventHanlder.h"
+
+void initEventHandler(void)
+{
+
+}
+
+void eventHandler(void *param)
+{
+	while(1)
+	{
+		printf("hellow");
+	}
+
+}

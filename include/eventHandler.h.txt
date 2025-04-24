@@ -1,0 +1,8 @@
+#ifndef _EVENT_HANDLER_H_
+#define _EVENT_HANDELR_H_
+
+void initEventHanler(void);
+
+void evenHandler(void *param);
+
+#endif
